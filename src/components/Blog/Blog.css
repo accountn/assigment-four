@@ -1,0 +1,22 @@
+.blog{
+    display: flex;
+    border-bottom: 2px solid rgb(236, 172, 172);
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.blog-name{
+    color: lightseagreen;
+    font-weight: 400px;
+    
+}
+.main-button{
+    background-color: crimson;
+    width: 200px;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
